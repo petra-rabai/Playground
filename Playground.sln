@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "RPSLSGameTypescriptConsoleApp", "RPSLSGameTypescriptConsooleApp\RPSLSGameTypescriptConsoleApp.esproj", "{326D4D9B-BD44-49BB-AA50-43D590EFC8EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{326D4D9B-BD44-49BB-AA50-43D590EFC8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326D4D9B-BD44-49BB-AA50-43D590EFC8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326D4D9B-BD44-49BB-AA50-43D590EFC8EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{326D4D9B-BD44-49BB-AA50-43D590EFC8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326D4D9B-BD44-49BB-AA50-43D590EFC8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{326D4D9B-BD44-49BB-AA50-43D590EFC8EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAD3E34B-9E58-48B2-B870-7D8DA33AC6D8}
+	EndGlobalSection
+EndGlobal
